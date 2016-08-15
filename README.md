@@ -11,3 +11,6 @@ Previously it was continuously dimmed. Of course the project is on GitHub ( http
 
 The full instruction set is included with the source on GitHub
 https://github.com/n0bel/PiClock/blob/master/Documentation/Install.md
+
+Raspberry Pi wall mounted google calendar
+http://www.instructables.com/id/Raspberry-Pi-Wall-Mounted-Google-Calendar/
